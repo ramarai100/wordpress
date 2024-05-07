@@ -44,4 +44,6 @@ sudo apt-get update
 sudo apt install certbot python3-certbot-apache
 
 14. Request and install ssl on your site with certbot
+15.  add some line this file wp-config.php
+16.  define('FS_METHOD', 'direct'); disable ftp server
 
